@@ -1,3 +1,3 @@
 # Pen-Testing
 
-A useful collectionof penetration testing tools.
+A collection of penetration testing tools. Useful to clone to other non-Kali distros.
